@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/control_service/control_service.iml" filepath="$PROJECT_DIR$/control_service/control_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc_oj.iml" filepath="$PROJECT_DIR$/mooc_oj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utility_module/utility_module.iml" filepath="$PROJECT_DIR$/utility_module/utility_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web_service/web_service.iml" filepath="$PROJECT_DIR$/web_service/web_service.iml" />
+    </modules>
+  </component>
+</project>
+
