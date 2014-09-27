@@ -9,7 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>utility_module</artifactId>
+    <groupId>com.huayu.mooc</groupId>
+    <artifactId>oj_utility</artifactId>
 
 
 </project>

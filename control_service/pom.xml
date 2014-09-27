@@ -11,5 +11,11 @@
 
     <artifactId>control_service</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.huayu.mooc</groupId>
+            <artifactId>oj_utility</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

@@ -22,7 +22,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="mooc_oj" />
+        <module name="control_service" />
+        <module name="mybatis_access" />
+        <module name="utility_module" />
         <module name="web_service" />
       </profile>
     </annotationProcessing>
